@@ -1,7 +1,18 @@
-# 
+# Canvas Spreadsheet Reporting
+This is meant for Administrators.
 
 
+## Reports Available
+1. pull assignments for listed courses
+2. 
 
+
+## How to enter API token
+
+## How to export data
+
+
+## How to fork repo and create your own reports 
 
 
 ## Important Docs
